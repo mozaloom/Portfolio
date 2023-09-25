@@ -13,7 +13,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Portfolio | Mohammed Zaloom"
-PAGE_ICON = current_dir / "assets" / "profile-pic (19).png"
+PAGE_ICON = "💼"
 NAME = "Mohammed Zaloom"
 DESCRIPTION = """
 Artificial Intelligence and Robotics student at Al- Balqa' Applied University (BAU), passion for learning. I aim to keep learning and become a better version of myself every day.
