@@ -31,6 +31,7 @@ PROJECTS = {
 
 }
 CERITIFICATIONS = {
+    "   IoT Specialization": "https://www.coursera.org/account/accomplishments/specialization/certificate/QF3SMCHN72ZW",
     "   Thingworkx Platform Hands-on Training": "https://drive.google.com/file/d/1sKUghtP3XCZJr6SFPYktOrrYN52B_0t2/view?usp=sharing",
     "   Introduction to the Internet of Things and Embedded Systems" :"https://www.coursera.org/account/accomplishments/certificate/LLQHGR9TRP2M",
     "   The Arduino Platform and C Programming" :"https://www.coursera.org/account/accomplishments/certificate/ZDXA96NU4HJA",
@@ -42,6 +43,10 @@ CERITIFICATIONS = {
     "   NLP Course for Beginner" :"https://www.udemy.com/certificate/UC-fb17dd37-be94-41fa-a4e7-6a56173ab94f/",
     "   Structuring Machine Learning Projects" :"https://www.coursera.org/account/accomplishments/certificate/GHKYJACQ7ML4",
     "   Aerial Robotics" : "https://www.coursera.org/account/accomplishments/certificate/2QALABRA9SBT",
+    "   Interfacing with the Raspberry Pi": "https://www.coursera.org/account/accomplishments/certificate/68PCQR9VSPPD",
+    "   Programming for the Internet of Things Project": "https://www.coursera.org/account/accomplishments/certificate/T8A5UTCK3RE8",
+    "   Interfacing with the Arduino": "https://www.coursera.org/account/accomplishments/certificate/6Y94ZLM6EZUW",
+    "   The Raspberry Pi Platform and Python Programming for the Raspberry Pi": "https://www.coursera.org/account/accomplishments/certificate/SQABKNEMYYXM",
 
 }
 
